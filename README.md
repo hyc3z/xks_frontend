@@ -1,24 +1,13 @@
-# xks
+# xks-web
 
-## Project setup
+### 基础操作
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
+cd 前端/xksystem/xks/
 yarn serve
 ```
+[网页地址](http://127.0.0.1:8080/).
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 参考
+[Vue官网](https://cn.vuejs.org/).
+[vuetify官网](https://vuetifyjs.com/zh-Hans/).
+[axios官网](https://github.com/axios/axios).
